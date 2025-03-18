@@ -67,10 +67,6 @@ Do you want to uninstall installed packages? (y/n) y
 |_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_(_)
 ```
 
-## License
-
-📜 This project is open-source under the **MIT License**.
-
 ## Author
 
 👤 **rakhmatullokh05 (https://github.com/rakhmatullokh05)**
