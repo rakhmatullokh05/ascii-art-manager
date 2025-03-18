@@ -31,19 +31,19 @@ cd ascii-art-manager
 Make the script executable:
 
 ```sh
-chmod +x ascii-art.sh
+chmod +x ascii_art.sh
 ```
 
 Run the script with an optional text argument:
 
 ```sh
-./ascii-art.sh 'Hello, World!'
+./ascii_art.sh 'Hello, World!'
 ```
 
 If no argument is provided, the script will prompt for input:
 
 ```sh
-./ascii-art.sh
+./ascii_art.sh
 Enter text for ASCII Art: YourText
 ```
 
@@ -52,7 +52,7 @@ Enter text for ASCII Art: YourText
 After generating the ASCII art, the script prompts you to remove the installed packages. You can also uninstall them manually:
 
 ```sh
-./ascii-art.sh
+./ascii_art.sh
 Do you want to uninstall installed packages? (y/n) y
 ```
 
